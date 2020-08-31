@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './logo.svg';
+import logo from './codaisseur.jpg';
 import './App.css';
 
 function App() {
@@ -12,11 +12,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://codaisseur.com"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn how to code in 11 weeks!
         </a>
       </header>
     </div>
